@@ -512,7 +512,7 @@
             "last_commit": "2026-01-20T00:24:21Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 2985
+            "stars": 2988
           }
         },
         {
@@ -538,7 +538,7 @@
             "last_commit": "2019-02-24T00:37:05Z",
             "owner": "Jessecar96",
             "repo": "SteamBot",
-            "stars": 1366
+            "stars": 1367
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2020-12-19T13:20:40Z",
             "owner": "smiley",
             "repo": "steamapi",
-            "stars": 464
+            "stars": 465
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-01-20T00:24:21Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 2985
+            "stars": 2988
           }
         },
         {
@@ -1015,7 +1015,7 @@
             "last_commit": "2026-01-20T00:24:21Z",
             "owner": "SteamRE",
             "repo": "SteamKit",
-            "stars": 2985
+            "stars": 2988
           }
         },
         {
@@ -1072,10 +1072,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:31:43.391Z",
+    "last_updated": "2026-02-08T04:32:15.853Z",
     "original_repository": "scholtzm/awesome-steam",
     "source_repository": "v1nvn/enhansome-steam",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Steam with stars"
   }
 }
