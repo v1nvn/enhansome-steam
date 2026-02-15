@@ -1,4 +1,4 @@
-# Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,261 | 🐛 69 | 📅 2026-01-28 with stars
+# Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,495 | 🐛 70 | 📅 2026-01-28 with stars
 
 > A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
 
@@ -125,7 +125,7 @@ The purpose of this document is to provide a quick overview over existing packag
 #### General
 
 * [steam](https://github.com/ValvePython/steam) ⭐ 1,241 | 🐛 60 | 🌐 Python | 📅 2024-08-03 - Module for various interactions with Steam.
-* [steampy](https://github.com/bukson/steampy) ⭐ 660 | 🐛 88 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
+* [steampy](https://github.com/bukson/steampy) ⭐ 660 | 🐛 89 | 🌐 Python | 📅 2024-12-23 - Fully automated Steam trade offers library with SteamGuard support.
 * [SteamAPI](https://github.com/smiley/steamapi) ⚠️ Archived - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 * [aiosteampy](https://github.com/somespecialone/aiosteampy) ⭐ 82 | 🐛 9 | 🌐 Python | 📅 2026-01-19 - Trade and interact with Steam market, WebAPI, SteamGuard.
 * [steamodd](https://github.com/Lagg/steamodd) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2024-03-16 - Steam tools library.
@@ -165,7 +165,7 @@ The purpose of this document is to provide a quick overview over existing packag
 * [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 * [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
-* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 597 | 🐛 1 | 🌐 HTML | 📅 2022-03-26
+* [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI) ⭐ 598 | 🐛 1 | 🌐 HTML | 📅 2022-03-26
 * [Steam as OpenID Provider](http://steamcommunity.com/dev)
 * [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 * [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
@@ -185,7 +185,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,718 | 🐛 318 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,718 | 🐛 317 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
 * [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 2,999 | 🐛 45 | 🌐 C# | 📅 2026-01-20 - Intercept Steam client's network messages.
 * [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 2,999 | 🐛 45 | 🌐 C# | 📅 2026-01-20 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
