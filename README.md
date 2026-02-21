@@ -1,4 +1,4 @@
-# Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 with stars
 
 > A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
 
@@ -92,7 +92,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,002 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - .NET library designed to interoperate with Valve's Steam network.
+* [SteamKit2](https://github.com/SteamRE/SteamKit) ⭐ 3,003 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - .NET library designed to interoperate with Valve's Steam network.
 * [SteamBot](https://github.com/Jessecar96/SteamBot) ⚠️ Archived - Automated bot software for interacting with steam trade.
 * [SteamAuth](https://github.com/geel9/SteamAuth) ⭐ 311 | 🐛 25 | 🌐 C# | 📅 2025-05-20 - A C# library that provides vital Steam Mobile Authenticator functionality.
 * [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) ⭐ 50 | 🐛 5 | 🌐 C# | 📅 2017-08-19 - SteamBot fork which focuses on trade offers.
@@ -102,7 +102,6 @@ The purpose of this document is to provide a quick overview over existing packag
 
 * [BackpackLogin](https://github.com/igeligel/BackpackLogin) ⭐ 7 | 🐛 1 | 🌐 C# | 📅 2017-04-23 - A .NET Standard library for logging into backpack.tf using Steam credentials.
 * [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2017-04-23 - A .NET Standard class library which allows user to interact with TF2Outpost.
-* [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2017-11-04 - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### PHP
 
@@ -186,8 +185,8 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Standalone Tools
 
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) ⭐ 3,720 | 🐛 317 | 🌐 C# | 📅 2024-10-20 - Desktop implementation of Steam's mobile authenticator app.
-* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,002 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - Intercept Steam client's network messages.
-* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,002 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - Inspect messages dumped by NetHook2.
+* [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) ⭐ 3,003 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - Intercept Steam client's network messages.
+* [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) ⭐ 3,003 | 🐛 46 | 🌐 C# | 📅 2026-02-16 - Inspect messages dumped by NetHook2.
 * [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) ⭐ 9 | 🐛 7 | 🌐 Kotlin | 📅 2024-07-20 - Steam desktop authenticator.
 * [protonenv](https://github.com/rizkiarm/protonenv) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-05-07 - Simple Proton version and prefix management.
 * [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
